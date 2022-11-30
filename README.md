@@ -1,6 +1,14 @@
 # Datesters-Agreement
 
-## Logistical
+## MEMBERS
+
+Aubrey Corsetti
+Harper Foley
+Angelos Kounavis
+Ricardo Soto
+Martin Hansen
+
+### Logistical
 
 • Hours of communication: Open
 • Communication platforms: Slack, phone, REMO
